@@ -1,16 +1,54 @@
-# Hi 👋, I'm Peter
+<div align="center">
 
-### A vibe coder
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF7B00&height=200&section=header&text=Piotr%20Szpąt&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pietruszkaa&label=Profile views&color=0e75b6&style=flat" alt="Pietruszkaa" /> </p>
-
-- 🔭 I'm currently working on **A discord All-in-One bot named Juggernaut**
-
-- 🌱 I'm currently learning **TypeScript, Html and mySQL**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Piotr_Szpąt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Piotr_Szpąt" height="30" width="40" /></a>
-<a href="https://instagram.com/piotr_kondej" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piotr_kondej" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7B00&center=true&vCenter=true&width=435&lines=Vibe+Coder+🎧;Discord+Bot+Developer+🤖;TypeScript+Enthusiast+🔥" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://discord.com/users/660559925566767125" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Contact-FF7B00?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+---
+
+### 🚀 About Me
+
+🔭 Working on **[Juggernaut](https://github.com/Pietruszkaa/Juggernaut/tree/dev)** 
+
+<br>
+
+[<img width="180" height="180" alt="Juggernaut Logo" src="https://github.com/user-attachments/assets/b6b81c68-8bce-4ec0-8cb7-946fcfa2bb99" style="border-radius: 20px;" />](https://github.com/Pietruszkaa/Juggernaut/tree/dev)
+
+<br>
+
+🌱 Learning **TypeScript, HTML & MySQL**
+
+---
+
+### 🎧 Now playing:
+<br>
+<a href="https://www.last.fm/user/Piotr_Szpont">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=Piotr_Szpont&count=1&theme=radical" alt="Now Playing" />
+</a>
+
+---
+
+### 🛠️ Tech Stack ( Learning )
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,mysql,html,vscode,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pietruszkaa&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietruszkaa&layout=compact&theme=radical&hide_border=true" alt="Langs" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF7B00&height=200&section=footer" width="100%" />
+
+</div>
