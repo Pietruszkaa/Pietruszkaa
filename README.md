@@ -2,7 +2,7 @@
 
 ### A vibe coder
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Piotr_Szpąt&label=Profile views&color=0e75b6&style=flat" alt="Piotr_Szpąt" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pietruszkaa&label=Profile views&color=0e75b6&style=flat" alt="Pietruszkaa" /> </p>
 
 - 🔭 I'm currently working on **A discord All-in-One bot named Juggernaut**
 
