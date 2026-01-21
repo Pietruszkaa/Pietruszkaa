@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
- 🔭 **Current Focus:** Developing **[Juggernaut](https://github.com/Pietruszkaa/Juggernaut/tree/dev)** – a powerful, all-in-one Discord integration designed to be as unstoppable as its name suggests. 
+- 🔭 **Current Focus:** Developing **[Juggernaut](https://github.com/Pietruszkaa/Juggernaut/tree/dev)** – a powerful, all-in-one Discord bot designed to be as unstoppable as its name suggests. 
 
 <br>
 
@@ -24,9 +24,11 @@
 
 <br>
 
- 🌱 **Learning Path:** Mastering **TypeScript** and **MySQL** to build more scalable and efficient backend systems.                              
- 🥊 **Off-duty:** You'll find me at the **kickboxing** gym, hitting the pavement for a **run**, or sailing the **Sea of Thieves** with my crew.     
- 🎮 **Gaming:** Always up for a match in **Valorant**, some survival in **Minecraft**, or a trial in **DbD**.
+- 🌱 **Learning Path:** Mastering **TypeScript** and **MySQL** to build more scalable and efficient backend systems.
+  
+- 🥊 **Off-duty:** You'll find me at the **kickboxing** gym, hitting the pavement for a **run**, or sailing the **Sea of Thieves** with my crew.
+  
+- 🎮 **Gaming:** Always up for a match in **Valorant**, some survival in **Minecraft**, or a trial in **DbD**.
 
 ---
 
