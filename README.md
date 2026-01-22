@@ -39,7 +39,7 @@
     <td width="33%" valign="top">
       <h4>🔥 Active Project</h4>
       <b>Juggernaut</b><br>
-      <i>The ultimate Discord integration.</i><br>
+      <i>The ultimate Discord bot.</i><br>
       <code>Status: In Development 🏗️</code>
     </td>
     <td width="33%" valign="top">
