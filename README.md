@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/660559925566767125" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Contact-FF7B00?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-Contact%20Me-FF7B00?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
@@ -34,24 +34,27 @@
 
 ### 🛠️ Current Journey
 
-<table border="0">
+<table align="center" style="margin: 0 auto;">
   <tr>
-    <td width="33%" valign="top">
-      <h4>🔥 Active Project</h4>
+    <td width="33%" valign="top" align="center">
+      <br>
+      <b>🔥 Active Project</b><br><br>
       <b>Juggernaut</b><br>
-      <i>The ultimate Discord bot.</i><br>
+      <i>The ultimate Discord bot.</i><br><br>
       <code>Status: In Development 🏗️</code>
     </td>
-    <td width="33%" valign="top">
-      <h4>⌨️ Hardware Goal</h4>
-      <b>Custom Mechanical Keyboard</b><br>
-      <i>PCB Design & Inventor 3D Case.</i><br>
+    <td width="33%" valign="top" align="center">
+      <br>
+      <b>⌨️ Hardware Goal</b><br><br>
+      <b>Custom Keyboard</b><br>
+      <i>PCB Design & Inventor.</i><br><br>
       <code>Status: Prototyping ⚡</code>
     </td>
-    <td width="33%" valign="top">
-      <h4>🎮 Future Horizon</h4>
+    <td width="33%" valign="top" align="center">
+      <br>
+      <b>🎮 Future Horizon</b><br><br>
       <b>Hybrid Pixel-Art Game</b><br>
-      <i>TD / RTS / City Builder.</i><br>
+      <i>TD / RTS / City Builder.</i><br><br>
       <code>Status: Brainstorming 🧠</code>
     </td>
   </tr>
