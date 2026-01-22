@@ -32,7 +32,7 @@
 
 ---
 
-### 🎧 Now playing:
+### 🎧 Recently Played:
 <br>
 <a href="https://www.last.fm/user/Piotr_Szpont">
   <img src="https://lastfm-recently-played.vercel.app/api?user=Piotr_Szpont&count=1&theme=radical" alt="Now Playing" />
