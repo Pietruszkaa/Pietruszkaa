@@ -32,6 +32,33 @@
 
 ---
 
+### 🛠️ Current Journey
+
+<table border="0">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🔥 Active Project</h4>
+      <b>Juggernaut</b><br>
+      <i>The ultimate Discord integration.</i><br>
+      <code>Status: In Development 🏗️</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4>⌨️ Hardware Goal</h4>
+      <b>Custom Mechanical Keyboard</b><br>
+      <i>PCB Design & Inventor 3D Case.</i><br>
+      <code>Status: Prototyping ⚡</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🎮 Future Horizon</h4>
+      <b>Hybrid Pixel-Art Game</b><br>
+      <i>TD / RTS / City Builder.</i><br>
+      <code>Status: Brainstorming 🧠</code>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🎧 Recently Played:
 <br>
 <a href="https://www.last.fm/user/Piotr_Szpont">
