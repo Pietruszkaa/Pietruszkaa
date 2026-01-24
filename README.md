@@ -9,6 +9,8 @@
 <p align="center">
   <a href="https://discord.com/users/660559925566767125" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Contact%20Me-FF7B00?style=for-the-badge&logo=discord&logoColor=white" />
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=Pietruszkaa&color=FF7B00&style=flat-square" />
   </a>
 </p>
 
@@ -72,15 +74,16 @@
 
 ### 🛠️ Tech Stack ( Learning )
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,mysql,html,vscode,git" />
-</p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,mysql,redis,docker,linux,git,vscode" />
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pietruszkaa&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietruszkaa&layout=compact&theme=radical&hide_border=true" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pietruszkaa&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietruszkaa&theme=radical&show_icons=true&hide_border=true&layout=compact" />
+  <img src="https://streak-stats.demolab.com/?user=Pietruszkaa&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pietruszkaa&theme=redical&hide_border=true" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7B00&height=200&section=footer" width="100%" />
