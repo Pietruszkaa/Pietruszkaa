@@ -1,91 +1,151 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF7B00&height=200&section=header&text=Piotr%20Szpont&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=173DDC&height=200&section=header&text=Projects%20Workspace&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7B00&center=true&vCenter=true&width=435&lines=Vibe+Coder+🎧;Discord+Bot+Developer+🤖;TypeScript+Enthusiast+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=173DDC&center=true&vCenter=true&width=700&lines=Wiele+projektów+•+Jedno+workspace;Aplikacje+desktopowe+•+Narzędzia+•+Automatyzacja" />
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/660559925566767125" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Contact%20Me-FF7B00?style=for-the-badge&logo=discord&logoColor=white" />
-    <br>
-    <img src="https://komarev.com/ghpvc/?username=Pietruszkaa&color=FF7B00&style=flat-square" />
-  </a>
+  <img src="https://img.shields.io/badge/status-aktywny%20rozwój-173DDC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/fokus-desktop%20apps-173DDC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/stack-Rust%20%7C%20TypeScript%20%7C%20React-173DDC?style=for-the-badge" />
 </p>
 
----
-
-### 🚀 About Me
-
-- 🔭 **Current Focus:** Developing **[Juggernaut](https://github.com/Pietruszkaa/Juggernaut/tree/dev)** – a powerful, all-in-one Discord bot designed to be as unstoppable as its name suggests. 
-
-<br>
-
-[<img width="180" height="180" alt="Juggernaut Logo" src="https://github.com/user-attachments/assets/b6b81c68-8bce-4ec0-8cb7-946fcfa2bb99" style="border-radius: 20px;" />](https://github.com/Pietruszkaa/Juggernaut/tree/dev)
-
-<br>
-
-- 🌱 **Learning Path:** Mastering **TypeScript** and **MySQL** to build more scalable and efficient backend systems.
-  
-- 🥊 **Off-duty:** You'll find me at the **kickboxing** gym, hitting the pavement for a **run**, or sailing the **Sea of Thieves** with my crew.
-  
-- 🎮 **Gaming:** Always up for a match in **Valorant**, some survival in **Minecraft**, or a trial in **DbD**.
+</div>
 
 ---
 
-### 🛠️ Current Journey
+## 👋 O repozytorium
 
-<table align="center" style="margin: 0 auto;">
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <br>
-      <b>🔥 Active Project</b><br><br>
-      <b>Juggernaut</b><br>
-      <i>The ultimate Discord bot.</i><br><br>
-      <code>Status: In Development 🏗️</code>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <br>
-      <b>⌨️ Hardware Goal</b><br><br>
-      <b>Custom Keyboard</b><br>
-      <i>PCB Design & Inventor.</i><br><br>
-      <code>Status: Prototyping ⚡</code>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <br>
-      <b>🎮 Future Horizon</b><br><br>
-      <b>Hybrid Pixel-Art Game</b><br>
-      <i>TD / RTS / City Builder.</i><br><br>
-      <code>Status: Brainstorming 🧠</code>
-    </td>
-  </tr>
-</table>
+To repozytorium jest **osobistym workspace’em projektowym**, w którym rozwijane
+są różne **niezależne aplikacje, narzędzia oraz projekty sprzętowe**.
+
+Projekty powstają:
+- w celach edukacyjnych
+- jako portfolio
+- z myślą o realnym użyciu
+- z naciskiem na długoterminową utrzymywalność
+
+Każdy projekt ma **własny zakres, architekturę i roadmapę**.
 
 ---
 
-### 🎧 Recently Played:
-<br>
-<a href="https://www.last.fm/user/Piotr_Szpont">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=Piotr_Szpont&count=1&theme=radical" alt="Now Playing" />
-</a>
+## 📦 Aktywne projekty
 
 ---
 
-### 🛠️ Tech Stack ( Learning )
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,mysql,redis,docker,linux,git,vscode" />
+### 🧠 **PowerNotes**
+**Local-first baza wiedzy oparta na Markdown**
+
+PowerNotes to aplikacja desktopowa do budowania własnego
+„drugiego mózgu” z użyciem plików Markdown.
+
+Główne założenia:
+- local-first i offline-first
+- Markdown jako źródło prawdy
+- linkowanie wiki-style (`[[notatka]]`)
+- szybka nawigacja z klawiatury
+- przygotowane pod mobile, synchronizację i opcjonalne AI
+
+**Stack:** Tauri · Rust · React · SQLite  
+**Status:** wczesna faza rozwoju  
+
+👉 Repository: [**`PowerNotes`**](https://github.com/Pietruszkaa/PowerNotes)
+👉 Docs: [`/docs`](https://github.com/Pietruszkaa/PowerNotes/tree/main/docs)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pietruszkaa&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietruszkaa&theme=radical&show_icons=true&hide_border=true&layout=compact" />
-  <img src="https://streak-stats.demolab.com/?user=Pietruszkaa&theme=radical&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pietruszkaa&theme=redical&hide_border=true" />
-</p>
+### ⚔️ **Juggernaut**
+**Modularna platforma bota Discord**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF7B00&height=200&section=footer" width="100%" />
+Juggernaut to modularna platforma do budowy botów Discord,
+z naciskiem na:
+- czystą architekturę
+- bezpieczeństwo typów
+- obserwowalność runtime
+- długoterminowy rozwój
+- gotowość pod self-hosting i SaaS
 
+**Stack:** TypeScript · Node.js · discord.js · Express  
+**Status:** wczesna faza rozwoju (branch `dev`)
+
+👉 Repozytorium: [**`Juggernaut`**](https://github.com/Pietruszkaa/Juggernaut/tree/dev)
+
+---
+
+## 🧪 Projekty planowane / koncepcyjne
+
+> Projekty w fazie pomysłu lub wstępnego planowania.  
+> Repozytoria i pełna dokumentacja pojawią się w przyszłości.
+
+---
+
+### 📥 **MediaDwnld**
+Narzędzie do pobierania treści z mediów społecznościowych  
+*(wideo, audio, pobieranie wsadowe)*
+
+👉 Repozytorium: *(wkrótce)*
+
+---
+
+### 💻 **cmd-OS**
+Aplikacja desktopowa do sterowania systemem przez komendy  
+*(uruchamianie aplikacji, automatyzacja zadań, pluginy)*
+
+👉 Repozytorium: *(wkrótce)*
+
+---
+
+### 📍 **Places** *(nazwa robocza)*
+Osobista aplikacja do zapisywania miejsc  
+*(prywatna alternatywa inspirowana Google Places)*
+
+👉 Repozytorium: *(wkrótce)*
+
+---
+
+### ⌨️ **Custom Mechanical Keyboard**
+Projekt własnej klawiatury mechanicznej  
+*(layout, elektronika, firmware, obudowa)*
+
+---
+
+### 🎮 **Prototypy gier**
+Eksperymentalne projekty:
+- **TD** (Tower Defense)
+- **RTS** (Real-Time Strategy)
+- **City Builder**
+
+*(fokus: mechaniki, systemy, wydajność)*
+
+---
+
+### 🖥️ **Custom PC Case**
+Projekt autorskiej obudowy PC  
+*(projekt CAD, przepływ powietrza, układ komponentów)*
+
+---
+
+## 🛠️ Wspólne technologie
+
+- **Desktop:** Tauri
+- **Backend:** Rust / Node.js
+- **Frontend:** React / TypeScript
+- **Dane:** SQLite / filesystem
+- **Sprzęt / CAD:** Autodesk Inventor
+- **Filozofia:** local-first, modularność, offline-first
+
+---
+
+## 📮 Feedback
+
+Sugestie, pomysły i błędy:
+- przez **GitHub Issues**
+- w dyskusjach projektowych
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=173DDC&height=160&section=footer" width="100%" />
 </div>
