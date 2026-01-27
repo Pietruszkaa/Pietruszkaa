@@ -16,7 +16,7 @@
 
 ---
 
-# [En](#en)
+[En](#en)
 
 ## 👋 O repozytorium
 
