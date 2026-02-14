@@ -1,314 +1,157 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=173DDC&height=200&section=header&text=Projects%20Workspace&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6f00&height=150&section=header" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=173DDC&center=true&vCenter=true&width=700&lines=Wiele+projektów+•+Jedno+workspace;Aplikacje+desktopowe+•+Narzędzia+•+Automatyzacja" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-aktywny%20rozwój-173DDC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/fokus-desktop%20apps-173DDC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/stack-Rust%20%7C%20TypeScript%20%7C%20React-173DDC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/focus-desktop%20software-ff6f00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/interests-systems%20%7C%20tools%20%7C%20hardware-ff6f00?style=for-the-badge" />
+<br>
+  <p align="center"> <a href="https://discord.com/users/660559925566767125" target="_blank"> <img src="https://img.shields.io/badge/Discord-Contact-FF7B00?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> </a> </p>
 </p>
 
 </div>
 
 ---
 
-[En](#en)
+## About
 
-## 👋 O repozytorium
+Technical school student.
 
-To repozytorium jest **osobistym workspace’em projektowym**, w którym rozwijane
-są różne **niezależne aplikacje, narzędzia oraz projekty sprzętowe**.
+Software and hardware projects here are personal, interest-driven work developed in free time.
 
-Projekty powstają:
-- w celach edukacyjnych
-- jako portfolio
-- z myślą o realnym użyciu
-- z naciskiem na długoterminową utrzymywalność
+Primary focus:
+- desktop applications  
+- systems-oriented tools  
+- experimentation and architectural design  
 
-Każdy projekt ma **własny zakres, architekturę i roadmapę**.
-
----
-
-## 📦 Aktywne projekty
+The only formal overlap with school is CAD access (Autodesk Inventor).
+Everything else is self-directed.
 
 ---
 
-### 🧠 **PowerNotes**
-**Local-first baza wiedzy oparta na Markdown**
+## Overview
 
-PowerNotes to aplikacja desktopowa do budowania własnego
-„drugiego mózgu” z użyciem plików Markdown.
+This profile contains software and hardware projects in various stages:
 
-Główne założenia:
-- local-first i offline-first
-- Markdown jako źródło prawdy
-- linkowanie wiki-style (`[[notatka]]`)
-- szybka nawigacja z klawiatury
-- przygotowane pod mobile, synchronizację i opcjonalne AI
+- structured and evolving  
+- paused  
+- experimental  
+- concept-level  
 
-**Stack:** Tauri · Rust · React · SQLite  
-**Status:** wczesna faza rozwoju  
-
-👉 Repository: [**`PowerNotes`**](https://github.com/Pietruszkaa/PowerNotes)
-👉 Docs: [`/docs`](https://github.com/Pietruszkaa/PowerNotes/tree/main/docs)
+Not all projects are intended to be completed.
 
 ---
 
-### ⚔️ **Juggernaut**
-**Modularna platforma bota Discord**
+## Software Projects
 
-Juggernaut to modularna platforma do budowy botów Discord,
-z naciskiem na:
-- czystą architekturę
-- bezpieczeństwo typów
-- obserwowalność runtime
-- długoterminowy rozwój
-- gotowość pod self-hosting i SaaS
+### 📝 PowerNotes
+Local-first Markdown knowledge base.
 
-**Stack:** TypeScript · Node.js · discord.js · Express  
-**Status:** wczesna faza rozwoju (branch `dev`)
+Currently in architectural rework.  
+Early-stage design, core assumptions defined, implementation incomplete.
 
-👉 Repozytorium: [**`Juggernaut`**](https://github.com/Pietruszkaa/Juggernaut/tree/dev)
+**[`Repository`](https://github.com/Pietruszkaa/PowerNotes)**
 
 ---
 
-## 🧪 Projekty planowane / koncepcyjne
+### ⚔ Juggernaut
+Modular Discord bot platform.
 
-> Projekty w fazie pomysłu lub wstępnego planowania.  
-> Repozytoria i pełna dokumentacja pojawią się w przyszłości.
+Largest software project so far.  
+Development currently paused.
 
----
-
-### 📥 **MediaDwnld**
-Narzędzie do pobierania treści z mediów społecznościowych  
-*(wideo, audio, pobieranie wsadowe)*
-
-👉 Repozytorium: *(wkrótce)*
+**[`Repository`](https://github.com/Pietruszkaa/WrapGPT/tree/dev)**
 
 ---
 
-### 💻 **cmd-OS**
-Aplikacja desktopowa do sterowania systemem przez komendy  
-*(uruchamianie aplikacji, automatyzacja zadań, pluginy)*
+### 🖥 WrapGPT
+Electron-based desktop wrapper for ChatGPT.
 
-👉 Repozytorium: *(wkrótce)*
+Functional and published.
 
----
-
-### 📍 **Places** *(nazwa robocza)*
-Osobista aplikacja do zapisywania miejsc  
-*(prywatna alternatywa inspirowana Google Places)*
-
-👉 Repozytorium: *(wkrótce)*
+**[`Repository`](https://github.com/Pietruszkaa/WrapGPT)**
 
 ---
 
-### ⌨️ **Custom Mechanical Keyboard**
-Projekt własnej klawiatury mechanicznej  
-*(layout, elektronika, firmware, obudowa)*
+### 🧠 Center of Control *(working title)*
+Weekly planning engine with execution state control.
+
+Concept defined. Early structural phase.
 
 ---
 
-### 🎮 **Prototypy gier**
-Eksperymentalne projekty:
-- **TD** (Tower Defense)
-- **RTS** (Real-Time Strategy)
-- **City Builder**
+### 🎮 Game Project (collaborative)
 
-*(fokus: mechaniki, systemy, wydajność)*
+Single game project developed with a friend.  
+Currently in planning / experimentation phase.  
+Completion not guaranteed.
 
 ---
 
-### 🖥️ **Custom PC Case**
-Projekt autorskiej obudowy PC  
-*(projekt CAD, przepływ powietrza, układ komponentów)*
+## Hardware / CAD Projects
+
+### ⌨ Custom Mechanical Keyboard
+Custom layout, electronics, firmware, enclosure design.
+
+Planned for physical production.
 
 ---
 
-## 🛠️ Wspólne technologie
+### 🖥 Custom PC Case
+Custom-designed PC enclosure.  
 
-- **Desktop:** Tauri
-- **Backend:** Rust / Node.js
-- **Frontend:** React / TypeScript
-- **Dane:** SQLite / filesystem
-- **Sprzęt / CAD:** Autodesk Inventor
-- **Filozofia:** local-first, modularność, offline-first
+Planned for physical production.
 
 ---
 
-## 📮 Feedback
+## Paused / Shelved Concepts
 
-Sugestie, pomysły i błędy:
-- przez **GitHub Issues**
-- w dyskusjach projektowych
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=173DDC&height=160&section=footer" width="100%" />
-</div>
-<div align="center">
+### 📥 MediaDwnld
+Media downloader for social platforms.  
+Currently shelved.
 
 ---
 
-# En
+### 💻 Cmd-OS
+Command-driven desktop control and automation tool.  
+Currently shelved.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=173DDC&height=200&section=header&text=Projects%20Workspace&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+### 📍 Places *(working title)*
+Desktop workspace organizer inspired by Fences / Nimi Places.  
+Currently shelved.
+
+---
+
+### 🔊 Soundboard App *(working title)*
+Free VoiceMod alternative.  
+Paused due to hardware / driver-level limitations.
+
+---
+
+## Technologies Used
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=173DDC&center=true&vCenter=true&width=700&lines=Multiple+Projects+•+One+Workspace;Desktop+Apps+•+Tools+•+Automation" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron" />
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite" />
+  <img src="https://img.shields.io/badge/AutoDesk-Inventor-C40000?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-active%20development-173DDC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/focus-desktop%20apps-173DDC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/stack-Rust%20%7C%20TypeScript%20%7C%20React-173DDC?style=for-the-badge" />
-</p>
-
-</div>
-
 ---
 
-## 👋 About
+## GitHub Stats
 
-This repository is a **personal projects workspace** containing multiple
-independent applications, tools and hardware projects.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pietruszkaa&bg_color=0d1117&color=FF7B00&line=FF7B00&point=FF7B00&hide_border=true" />
 
-Projects are developed for:
-- learning by building
-- long-term maintainability
-- real-world usability
-- portfolio and experimentation
-
-Each project has its **own scope, architecture and roadmap**.
 
 ---
-
-## 📦 Active Projects
-
----
-
-### 🧠 **PowerNotes**
-**Local-first Markdown Knowledge Base**
-
-PowerNotes is a desktop application designed to build a personal
-“second brain” using plain Markdown files.
-
-Core ideas:
-- local-first & offline-first
-- Markdown as the source of truth
-- wiki-style linking (`[[note]]`)
-- fast keyboard-driven navigation
-- future-ready for mobile, sync and optional AI
-
-**Stack:** Tauri · Rust · React · SQLite  
-**Status:** early development  
-
-👉 Repository: **PowerNotes**  
-👉 Docs: `/docs`
-
----
-
-### ⚔️ **Juggernaut**
-**Modular Discord Bot Platform**
-
-Juggernaut is a modular, general-purpose Discord bot platform focused on:
-- clean architecture
-- type safety
-- runtime observability
-- long-term maintainability
-- future self-hosting / SaaS readiness
-
-**Stack:** TypeScript · Node.js · discord.js · Express  
-**Status:** early development (dev branch)
-
-👉 Repository: **Juggernaut**
-
----
-
-## 🧪 Planned / Early Concepts
-
-> Projects listed below are in **concept or planning phase**.  
-> Repositories and full documentation will be added later.
-
----
-
-### 📥 **MediaDwnld**
-Media downloader for social platforms  
-*(video, audio, batch downloads)*
-
-👉 Repository: *(coming soon)*
-
----
-
-### 💻 **cmd-OS**
-Command-driven desktop control & automation tool  
-*(system commands, app launching, task automation, plugins)*
-
-👉 Repository: *(coming soon)*
-
----
-
-### 📍 **Places** *(working name)*
-Personal places & locations app  
-*(private, local-first alternative inspired by Google Places)*
-
-👉 Repository: *(coming soon)*
-
----
-
-## 🧩 Other Projects (Short-Term / Hardware / Game Dev)
-
-> Smaller or time-bound projects, currently without public repositories.
-
----
-
-### ⌨️ **Custom Mechanical Keyboard**
-Custom-designed mechanical keyboard  
-*(layout, electronics, firmware, case design)*
-
----
-
-### 🎮 **Game Prototypes**
-Experimental game projects:
-- **TD** (Tower Defense)
-- **RTS** (Real-Time Strategy)
-- **City Builder**
-
-*(focus: mechanics, systems, performance)*
-
----
-
-### 🖥️ **Custom PC Case**
-Custom-designed PC case  
-*(CAD design, airflow, layout — Autodesk Inventor)*
-
-> ⚠️ **Deadline-driven:**  
-> To be completed while Autodesk Inventor license is active.
-
----
-
-## 🛠️ Common Technologies
-
-- **Desktop:** Tauri
-- **Backend:** Rust / Node.js
-- **Frontend:** React / TypeScript
-- **Data:** SQLite / filesystem
-- **Hardware / CAD:** Autodesk Inventor
-- **Philosophy:** local-first, modular, offline-ready
-
----
-
-## 📮 Feedback
-
-Ideas, bugs and suggestions are welcome:
-- via **GitHub Issues**
-- discussions per project
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=173DDC&height=160&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6f00&height=150&section=footer" width="100%" />
 </div>
